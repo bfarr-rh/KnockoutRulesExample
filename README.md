@@ -9,6 +9,9 @@ It provides a basic UI form to drive and invoke the call to the Rule, this will 
 
 The UI provides options for the container id and username/password to invoke the kie server and thus can easily demonstrate how multiple versions can be used.
 
+![Alt text](ui/images/Snip20191009_1.png?raw=true "UI")
+![Alt text](ui/images/Snip20191009_2.png?raw=true "UI")
+
 DMN Modelling
 =============
 This project also demonstrates 
